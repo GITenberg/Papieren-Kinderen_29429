@@ -1,0 +1,33 @@
+_repo: Papieren-Kinderen_29429
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 29429-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Maurik, Justus van
+    aliases:
+    - Maurik, Justus van, jr
+    - Van Maurik, Justus
+    birthdate: 1846
+    deathdate: 1904
+    gutenberg_agent_id: '4468'
+    url: http://www.gutenberg.org/2009/agents/4468
+    wikipedia: http://nl.wikipedia.org/wiki/Justus_van_Maurik_jr.
+description: ''
+gutenberg_issued: '2009-07-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29429'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'Dutch fiction'
+- !lcsh 'Short stories, Dutch'
+tableOfContents: Een benefiet -- Een massagekuur -- Bijou -- Henri de Snoeper -- Dirk
+  de Snorder -- De fashionabele dineur -- Hoe jetje gezoend werd.
+title: 'Papieren Kinderen: novellen en schetsen'
+url: http://www.gutenberg.org/ebooks/29429
